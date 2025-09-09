@@ -60,7 +60,7 @@
 
 ### 🏆 Achievements
 - **3rd Place** at 2024 UMKC GenCyber Summer Camp for High School Students.  
-- Built and managed a **Discord developer community of 1,000+ members** around built-by-me Python tools.  
+- Built and managed a **Discord community of 1,000+ members** around built-by-me Python tools.  
 - Generated revenue through developing Python Automation tools.  
 
 ---
