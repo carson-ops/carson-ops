@@ -31,7 +31,6 @@
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 
 **Tools & Platforms**  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white)
@@ -61,8 +60,8 @@
 
 ### 🏆 Achievements
 - **3rd Place** at 2024 UMKC GenCyber Summer Camp for High School Students.  
-- Built and managed a **Discord developer community of 1,000+ members** around early Python tools.  
-- Generated revenue through automation and scripting projects.  
+- Built and managed a **Discord developer community of 1,000+ members** around built-by-me Python tools.  
+- Generated revenue through developing Python Automation tools.  
 
 ---
 
