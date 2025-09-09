@@ -46,7 +46,6 @@
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white)
 
 ---
-
 ### 🚀 Projects
 - 🏎 **[Rocket League PPO Bot](#)** – Trained with RLGym + PPO to beat a rookie-level Rocket League AI 1v1 (100% hand-coded, no AI assistance).  
 - 🎮 **[CarRacing-PPO](#)** – AI agent learning to race in a 2D environment with reinforcement learning.  
@@ -54,6 +53,9 @@
 - 📦 **[loader](#)** – CLI tool in C for downloading & extracting RAR files (partly AI-assisted).  
 - 🕹 **[Cookie Clicker CLI](#)** – Python automation menu to interact with the web version of Cookie Clicker.  
 - 🚗 **[2D Pygame Car Simulation](#)** – Top-down car game with different vehicle types and physics.  
+
+> 🔒 These repositories are kept private.  
+> Please contact **Carson R.** to request access to see these projects. Thank you!  
 
 ---
 
