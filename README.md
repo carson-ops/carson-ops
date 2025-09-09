@@ -53,7 +53,7 @@
 - 🕹 **[Cookie Clicker CLI](#)** – Python automation menu to interact with the web version of Cookie Clicker.  
 - 🚗 **[2D Pygame Car Simulation](#)** – Top-down car game with different vehicle types and physics.  
 
->🔒 These repositories are kept private. Please contact **Carson R**. to request access to project code. Thank you!  
+> 🔒 These repositories are kept private. Please contact **Carson R** to request access to project code. Thank you!  
 
 ---
 
