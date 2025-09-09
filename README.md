@@ -21,7 +21,6 @@
 ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
 ![Cython](https://img.shields.io/badge/-Cython-FE7A16?logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white)
 
 **Frameworks & Libraries**  
 ![Pygame](https://img.shields.io/badge/-Pygame-3776AB?logo=python&logoColor=white)
