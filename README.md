@@ -53,15 +53,14 @@
 - 🕹 **[Cookie Clicker CLI](#)** – Python automation menu to interact with the web version of Cookie Clicker.  
 - 🚗 **[2D Pygame Car Simulation](#)** – Top-down car game with different vehicle types and physics.  
 
-> 🔒 These repositories are kept private.  
-> Please contact **Carson R.** to request access to see these projects. Thank you!  
+>🔒 These repositories are kept private. Please contact **Carson R**. to request access to project code. Thank you!  
 
 ---
 
 ### 🏆 Achievements
 - **3rd Place** at 2024 UMKC GenCyber Summer Camp for High School Students.  
-- Built and managed a **Discord community of 1,000+ members** around built-by-me Python tools.  
-- Generated revenue through developing Python Automation tools.  
+- Built and managed a **1,000+ member Discord community** around a Python-based multi-tool application I developed.
+- Generated revenue from developing and distributing a Python-based multi-tool application.
 
 ---
 
