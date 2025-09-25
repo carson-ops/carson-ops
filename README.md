@@ -76,7 +76,3 @@ I’m exploring paths in:
 - **Software Development** (Python-focused)  
 - **Cybersecurity** (ethical hacking, reverse engineering, security tools)  
 - **AI/ML Applications** (reinforcement learning, computer vision)  
-
----
-
-✨ *Let’s connect if you’re looking for someone who is dependable, adaptable, and excited to keep learning in software and security!*  
