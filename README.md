@@ -27,8 +27,6 @@
 **Exposure / Learning Experience**  
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)  
 
----
-
 **Frameworks & Libraries**  
 ![Pygame](https://img.shields.io/badge/-Pygame-3776AB?logo=python&logoColor=white)
 ![RLGym](https://img.shields.io/badge/-RLGym-0A66C2?logo=python&logoColor=white)
