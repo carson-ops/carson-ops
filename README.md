@@ -13,7 +13,7 @@
 
 ---
 
-### 🛠️ Tech I Use
+### 🛠️ Tech I've Use
 
 **Core Language**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
