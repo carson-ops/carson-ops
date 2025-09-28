@@ -1,6 +1,6 @@
 # Hi, I'm Carson 👋
 
-**Aspiring Software Developer | Cybersecurity Enthusiast | Python Specialist**
+**Aspiring Software Developer | Cybersecurity Enthusiast | Python Lover**
 
 ---
 
@@ -54,11 +54,3 @@
 - **3rd Place** at 2024 UMKC GenCyber Summer Camp for High School Students.  
 - Built and managed a **1,000+ member Discord community** around a Python-based multi-tool application I developed.
 - Generated revenue from developing and distributing a Python-based multi-tool application.
-
----
-
-### 🌱 Career Interests
-I’m exploring paths in:  
-- **Software Development**
-- **Cybersecurity** (ethical hacking, reverse engineering, security tools)  
-- **AI/ML Applications** (reinforcement learning, computer vision)  
