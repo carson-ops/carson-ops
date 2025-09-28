@@ -71,6 +71,6 @@
 
 ### 🌱 Career Interests
 I’m exploring paths in:  
-- **Software Development** (Python-focused)  
+- **Software Development**
 - **Cybersecurity** (ethical hacking, reverse engineering, security tools)  
 - **AI/ML Applications** (reinforcement learning, computer vision)  
