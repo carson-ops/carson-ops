@@ -9,13 +9,12 @@
 **Core Language**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
 
-**Familiar / Used in Projects**  
+**Used in Projects**  
 ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
-![Cython](https://img.shields.io/badge/-Cython-FE7A16?logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white)  
 
-**Exposure / Learning Experience**  
+**Exposure**  
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)  
 
 **Frameworks & Libraries**  
