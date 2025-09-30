@@ -1,19 +1,10 @@
 # Hi, I'm Carson 👋
 
-**Aspiring Software Developer | Cybersecurity Enthusiast | Python Lover**
+**Aspiring Software Developer | Python Lover**
 
 ---
 
-### 🧩 About Me
-- Self-taught programmer since 2020, passionate about Python and problem-solving.  
-- Experience in **software development, cybersecurity, and AI projects**.  
-- Comfortable with **reverse engineering** (C# via dnSpy/JetBrains, Python via PyInstaller).  
-- Dependable, trustworthy, and adaptable — I excel in team environments and enjoy building new connections.  
-- **3rd Place** — 2024 UMKC GenCyber Summer Camp (July 29 – August 2, 2024).  
-
----
-
-### 🛠️ Tech I've Used
+### 🛠️ Tech
 
 **Core Language**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
@@ -50,7 +41,3 @@
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white)
 
 
-### 🏆 Achievements
-- **3rd Place** at 2024 UMKC GenCyber Summer Camp for High School Students.  
-- Built and managed a **1,000+ member Discord community** around a Python-based multi-tool application I developed.
-- Generated revenue from developing and distributing a Python-based multi-tool application.
